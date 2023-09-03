@@ -38,10 +38,10 @@
     {
         "name":"ANDROMEDA",
 		"time":600,
-		"description":"Layer 7 - With Proxy and Strong for Bypass JS",
+		"description":"Layer 7 - With Proxy and Strong for Bypass",
 		"permission":["vip"],
 		"api":[
-    "http://45.118.135.31/api.php?key=BLUEARCHIVEC2API&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=SILENCE"
+    "http://45.118.135.31/api.php?key=BLUEARCHIVEC2API&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=ANDROMEDA"
 		]
 	},
     {
