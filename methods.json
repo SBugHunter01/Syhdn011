@@ -1,11 +1,11 @@
 [
 	{
-		"name":"BLACK HOLE",
+		"name":"BLACK-HOLE",
 		"time":600,
 		"description":"Layer 7 - Non Proxy but Strong Method for Hold Web",
 		"permission":["vip"],
 		"api":[
-    "http://45.118.135.31/api.php?key=BLUEARCHIVEC2API&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=BLACK HOLE"
+    "http://45.118.135.31/api.php?key=BLUEARCHIVEC2API&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=BLACK-HOLE"
 		]
 	},
 	{
